@@ -3,6 +3,8 @@
 ![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/f04da991-a735-4114-aa3c-ec60798b7fe4)
 
 
+## USA Home Price Index           : [View Project](https://github.com/praveendecode/US_HPI_Prediction)
+
 ## Retail Revenue Forecasting     : [View Project](https://github.com/praveendecode/Retail-Revenue-Forecasting)
 
 ## Airways Booking Analysis        : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
